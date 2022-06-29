@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV"}
   - {title: "Research"}
   - {title: "Projects"}
-  - {title: "Blog", file: "/blog.md"}
+  - {title: "Blog", file: "blog.md"}
   #- {file: "index.html"}
   #- {file: "README.md", title: "About me"}
 
