@@ -20,6 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research"}
   - {title: "Projects"}
   - {title: "Blog", file: "blog.md"}
+  - {title: "Personal", file: "personal.md"}
+  
   #- {file: "index.html"}
   #- {file: "README.md", title: "About me"}
 
