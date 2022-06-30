@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 ![OU_selfie](/assets/OU_selfie.jpeg)
