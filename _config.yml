@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://carlos91016.github.io/carlos-cv/"}
-  - {title: "Research"}
+  - {title: "Research", file: "research.md"}
   - {title: "Projects"}
   - {title: "Blog", file: "blog.md"}
   - {title: "Personal", file: "personal.md"}
